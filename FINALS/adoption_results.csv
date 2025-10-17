@@ -1,0 +1,55 @@
+timestamp,adopter_data,decision
+2025-10-17 10:42:49,"{
+  ""AdoptionBudget"": 2500,
+  ""HasPetExperience"": ""TRUE"",
+  ""HomeType"": ""house"",
+  ""AvailableSpace"": ""small"",
+  ""PreferredPetType"": ""dog"",
+  ""HasChildrenOrOtherPets"": ""TRUE"",
+  ""MonthlyPetBudget"": 5000,
+  ""AloneHours"": 2,
+  ""AdopterHistoryGood"": ""FALSE""
+}","{
+  ""AdoptionStatus"": ""Rejected"",
+  ""CareBudget"": ""Insufficient"",
+  ""SpaceMatch"": ""Unsuitable"",
+  ""ExperienceMatch"": ""StronglyApproved"",
+  ""AdoptionRecommendation"": ""NotRecommended"",
+  ""FinalDecision"": ""Adoption Not Recommended - Large dogs not ideal with children/other pets""
+}"
+2025-10-17 10:43:43,"{
+  ""AdoptionBudget"": 15000,
+  ""HasPetExperience"": ""TRUE"",
+  ""HomeType"": ""yard"",
+  ""AvailableSpace"": ""large"",
+  ""PreferredPetType"": ""cat"",
+  ""HasChildrenOrOtherPets"": ""TRUE"",
+  ""MonthlyPetBudget"": 3000,
+  ""AloneHours"": 10,
+  ""AdopterHistoryGood"": ""FALSE""
+}","{
+  ""AdoptionStatus"": ""Rejected"",
+  ""CareBudget"": ""Sufficient"",
+  ""SpaceMatch"": ""Suitable"",
+  ""ExperienceMatch"": ""StronglyApproved"",
+  ""AdoptionRecommendation"": ""Recommended"",
+  ""FinalDecision"": ""Adoption Rejected - Applicant has negative history""
+}"
+2025-10-17 11:07:20,"{
+  ""AdoptionBudget"": 2500,
+  ""HasPetExperience"": ""TRUE"",
+  ""HomeType"": ""house"",
+  ""AvailableSpace"": ""small"",
+  ""PreferredPetType"": ""dog"",
+  ""HasChildrenOrOtherPets"": ""TRUE"",
+  ""MonthlyPetBudget"": 5000,
+  ""AloneHours"": 2,
+  ""AdopterHistoryGood"": ""FALSE""
+}","{
+  ""AdoptionStatus"": ""Rejected"",
+  ""CareBudget"": ""Insufficient"",
+  ""SpaceMatch"": ""Unsuitable"",
+  ""ExperienceMatch"": ""StronglyApproved"",
+  ""AdoptionRecommendation"": ""NotRecommended"",
+  ""FinalDecision"": ""Adoption Not Recommended - Large dogs not ideal with children/other pets""
+}"
